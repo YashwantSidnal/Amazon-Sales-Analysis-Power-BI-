@@ -13,9 +13,12 @@ Interactive Filtering & Drill-Throughs for deeper analysis
 
 🛠 Built with:
 
-Power BI for Data Visualization,
-Power Query for Data Transformation,
-DAX (Data Analysis Expressions) for Advanced Metrics,
+Power BI for Data Visualization
+
+Power Query for Data Transformation
+
+DAX (Data Analysis Expressions) for Advanced Metrics
+
 Star Schema Data Modeling for Performance Optimization
 
 🔹 Key Features
