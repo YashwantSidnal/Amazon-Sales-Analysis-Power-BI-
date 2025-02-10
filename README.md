@@ -24,7 +24,7 @@ This "Amazon Sales Analytics Dashboard" is built using Power BI to analyze and v
 ✅ Helps assess product popularity and feedback trends.  
 
 
-#📊 Data Visualizations  
+📊 Data Visualizations  
 
 📈 Sales Trend Chart – Monthly/weekly sales performance visualization.  
 📊 Bar Charts – Breakdown of sales by State and City.  
